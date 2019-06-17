@@ -1,1 +1,1 @@
-# ahirsch9.github.iqg.io
+# ahirsch9.github.io/iqg
