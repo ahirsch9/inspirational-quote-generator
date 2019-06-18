@@ -5,9 +5,6 @@ $(document).ready(function() {
   //to show default quote when starting a page
   fetchQuote(quotes, author);
   //Shows next quote when button is clicked
-  $("#nxtQuote").click(function() {
-    fetchQuote(quotes, author);
-    $("#quoteBody").fadeOut("slow").fadeIn("slow");
-  });
+  $("#nxtQuote").click(function() 
 
   
